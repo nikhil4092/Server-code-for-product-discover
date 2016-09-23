@@ -1,0 +1,6 @@
+[26-May-2015 11:52:05 Etc/GMT] PHP Warning:  fopen(/images/1432641121402.jpg): failed to open stream: No such file or directory in /home/wavermmi/public_html/app/images/merchantadd.php on line 6
+[26-May-2015 11:52:05 Etc/GMT] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/images/merchantadd.php on line 7
+[26-May-2015 11:52:05 Etc/GMT] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/images/merchantadd.php on line 8
+[26-May-2015 11:52:15 Etc/GMT] PHP Warning:  fopen(/images/1432641133822.jpg): failed to open stream: No such file or directory in /home/wavermmi/public_html/app/images/merchantadd.php on line 6
+[26-May-2015 11:52:15 Etc/GMT] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/images/merchantadd.php on line 7
+[26-May-2015 11:52:15 Etc/GMT] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/images/merchantadd.php on line 8

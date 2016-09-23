@@ -1,0 +1,126 @@
+[22-May-2015 16:51:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 16:51:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 16:51:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 17:01:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 17:06:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 19
+[22-May-2015 18:05:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:05:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:06:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:07:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:07:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:07:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:07:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:08:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:08:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:08:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:09:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:09:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/getrestaurants.php on line 16
+[22-May-2015 18:11:00 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getrestaurants.php on line 12
+[22-May-2015 18:11:13 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getrestaurants.php on line 12
+[23-May-2015 07:24:18 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'wavermmi'@'208.91.198.76' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 9
+[23-May-2015 07:24:18 Etc/GMT] PHP Warning:  mysql_select_db(): Access denied for user 'wavermmi'@'localhost' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 10
+[23-May-2015 07:24:18 Etc/GMT] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/wavermmi/public_html/app/getrestaurants.php on line 10
+[23-May-2015 07:24:18 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'wavermmi'@'localhost' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 11
+[23-May-2015 07:24:18 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wavermmi/public_html/app/getrestaurants.php on line 11
+[23-May-2015 07:24:18 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getrestaurants.php on line 12
+[23-May-2015 07:24:18 Etc/GMT] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/wavermmi/public_html/app/getrestaurants.php on line 15
+[23-May-2015 07:24:19 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'wavermmi'@'208.91.198.76' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 9
+[23-May-2015 07:24:19 Etc/GMT] PHP Warning:  mysql_select_db(): Access denied for user 'wavermmi'@'localhost' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 10
+[23-May-2015 07:24:19 Etc/GMT] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/wavermmi/public_html/app/getrestaurants.php on line 10
+[23-May-2015 07:24:19 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'wavermmi'@'localhost' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 11
+[23-May-2015 07:24:19 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wavermmi/public_html/app/getrestaurants.php on line 11
+[23-May-2015 07:24:19 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getrestaurants.php on line 12
+[23-May-2015 07:24:19 Etc/GMT] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/wavermmi/public_html/app/getrestaurants.php on line 15
+[23-May-2015 19:38:07 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'wavermmi'@'208.91.198.76' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 9
+[23-May-2015 19:38:07 Etc/GMT] PHP Warning:  mysql_select_db(): Access denied for user 'wavermmi'@'localhost' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 10
+[23-May-2015 19:38:07 Etc/GMT] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/wavermmi/public_html/app/getrestaurants.php on line 10
+[23-May-2015 19:38:07 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'wavermmi'@'localhost' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 11
+[23-May-2015 19:38:07 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wavermmi/public_html/app/getrestaurants.php on line 11
+[23-May-2015 19:38:07 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getrestaurants.php on line 12
+[23-May-2015 19:38:07 Etc/GMT] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/wavermmi/public_html/app/getrestaurants.php on line 15
+[24-May-2015 18:04:27 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'wavermmi'@'208.91.198.76' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 9
+[24-May-2015 18:04:27 Etc/GMT] PHP Warning:  mysql_select_db(): Access denied for user 'wavermmi'@'localhost' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 10
+[24-May-2015 18:04:27 Etc/GMT] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/wavermmi/public_html/app/getrestaurants.php on line 10
+[24-May-2015 18:04:27 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'wavermmi'@'localhost' (using password: NO) in /home/wavermmi/public_html/app/getrestaurants.php on line 11
+[24-May-2015 18:04:27 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wavermmi/public_html/app/getrestaurants.php on line 11
+[24-May-2015 18:04:27 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getrestaurants.php on line 12
+[24-May-2015 18:04:27 Etc/GMT] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/wavermmi/public_html/app/getrestaurants.php on line 15
+[25-May-2015 08:43:14 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/wavermmi/public_html/app/getannouncements.php on line 14
+[25-May-2015 08:43:26 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/wavermmi/public_html/app/getannouncements.php on line 14
+[25-May-2015 08:43:27 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/wavermmi/public_html/app/getannouncements.php on line 14
+[25-May-2015 08:43:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/wavermmi/public_html/app/getannouncements.php on line 14
+[25-May-2015 08:44:20 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/wavermmi/public_html/app/getannouncements.php on line 14
+[25-May-2015 08:44:35 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/wavermmi/public_html/app/getannouncements.php on line 14
+[25-May-2015 08:45:00 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/wavermmi/public_html/app/getannouncements.php on line 14
+[25-May-2015 08:46:49 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/wavermmi/public_html/app/getannouncements.php on line 17
+[25-May-2015 08:47:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '$output' (T_VARIABLE) in /home/wavermmi/public_html/app/getannouncements.php on line 18
+[25-May-2015 08:47:38 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getannouncements.php on line 17
+[25-May-2015 08:47:38 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getannouncements.php on line 17
+[25-May-2015 09:00:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/wavermmi/public_html/app/getannouncements.php on line 15
+[25-May-2015 09:00:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/wavermmi/public_html/app/getannouncements.php on line 15
+[25-May-2015 09:00:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/wavermmi/public_html/app/getannouncements.php on line 15
+[25-May-2015 09:00:45 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/wavermmi/public_html/app/getannouncements.php on line 15
+[25-May-2015 12:08:07 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'wavermmi'@'208.91.198.76' (using password: NO) in /home/wavermmi/public_html/app/getannouncements.php on line 9
+[25-May-2015 12:08:07 Etc/GMT] PHP Warning:  mysql_select_db(): Access denied for user 'wavermmi'@'localhost' (using password: NO) in /home/wavermmi/public_html/app/getannouncements.php on line 10
+[25-May-2015 12:08:07 Etc/GMT] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/wavermmi/public_html/app/getannouncements.php on line 10
+[25-May-2015 12:08:07 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'wavermmi'@'localhost' (using password: NO) in /home/wavermmi/public_html/app/getannouncements.php on line 12
+[25-May-2015 12:08:07 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/wavermmi/public_html/app/getannouncements.php on line 12
+[25-May-2015 12:08:07 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getannouncements.php on line 14
+[25-May-2015 12:08:07 Etc/GMT] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/wavermmi/public_html/app/getannouncements.php on line 21
+[25-May-2015 18:23:08 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getannouncements.php on line 13
+[25-May-2015 18:24:24 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getannouncements.php on line 13
+[26-May-2015 02:53:45 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getannouncements.php on line 13
+[26-May-2015 03:09:51 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getannouncements.php on line 13
+[26-May-2015 03:12:13 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getannouncements.php on line 13
+[26-May-2015 03:15:18 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getannouncements.php on line 13
+[26-May-2015 03:18:11 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/getannouncements.php on line 13
+[26-May-2015 08:03:32 Etc/GMT] PHP Warning:  file_put_contents(app/images/556428d45ded3.png): failed to open stream: No such file or directory in /home/wavermmi/public_html/app/merchantadd.php on line 10
+[26-May-2015 08:04:10 Etc/GMT] PHP Warning:  file_put_contents(app/images/556428fab5c18.png): failed to open stream: No such file or directory in /home/wavermmi/public_html/app/merchantadd.php on line 10
+[26-May-2015 08:04:45 Etc/GMT] PHP Warning:  file_put_contents(app/images/5564291d39ef4.png): failed to open stream: No such file or directory in /home/wavermmi/public_html/app/merchantadd.php on line 10
+[26-May-2015 08:05:46 Etc/GMT] PHP Warning:  fopen() expects parameter 4 to be resource, null given in /home/wavermmi/public_html/app/merchantadd.php on line 9
+[26-May-2015 08:05:46 Etc/GMT] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 10
+[26-May-2015 08:12:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wavermmi/public_html/app/merchantadd.php on line 5
+[26-May-2015 08:14:37 Etc/GMT] PHP Parse error:  syntax error, unexpected 'data' (T_STRING) in /home/wavermmi/public_html/app/merchantadd.php on line 89
+[26-May-2015 08:17:52 Etc/GMT] PHP Parse error:  syntax error, unexpected 'data' (T_STRING) in /home/wavermmi/public_html/app/merchantadd.php on line 89
+[26-May-2015 11:41:31 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/wavermmi/public_html/app/merchantadd.php on line 6
+[26-May-2015 11:42:02 Etc/GMT] PHP Warning:  fopen(images/): failed to open stream: Is a directory in /home/wavermmi/public_html/app/merchantadd.php on line 6
+[26-May-2015 11:42:02 Etc/GMT] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 7
+[26-May-2015 11:42:02 Etc/GMT] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 8
+[26-May-2015 11:45:59 Etc/GMT] PHP Warning:  fopen(http://www.waverr.in/app/images/): failed to open stream: HTTP wrapper does not support writeable connections in /home/wavermmi/public_html/app/merchantadd.php on line 6
+[26-May-2015 11:45:59 Etc/GMT] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 7
+[26-May-2015 11:45:59 Etc/GMT] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 8
+[26-May-2015 11:47:04 Etc/GMT] PHP Warning:  fopen(http://www.waverr.in/app/images/1432640822569.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/wavermmi/public_html/app/merchantadd.php on line 6
+[26-May-2015 11:47:04 Etc/GMT] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 7
+[26-May-2015 11:47:04 Etc/GMT] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 8
+[26-May-2015 11:47:50 Etc/GMT] PHP Warning:  fopen(/images/1432640867061.jpg): failed to open stream: No such file or directory in /home/wavermmi/public_html/app/merchantadd.php on line 6
+[26-May-2015 11:47:50 Etc/GMT] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 7
+[26-May-2015 11:47:50 Etc/GMT] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 8
+[26-May-2015 11:48:14 Etc/GMT] PHP Warning:  fopen(/images/): failed to open stream: Is a directory in /home/wavermmi/public_html/app/merchantadd.php on line 6
+[26-May-2015 11:48:14 Etc/GMT] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 7
+[26-May-2015 11:48:14 Etc/GMT] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 8
+[26-May-2015 11:49:55 Etc/GMT] PHP Warning:  fopen(/images/1432640992746.jpg): failed to open stream: No such file or directory in /home/wavermmi/public_html/app/merchantadd.php on line 6
+[26-May-2015 11:49:55 Etc/GMT] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 7
+[26-May-2015 11:49:55 Etc/GMT] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/wavermmi/public_html/app/merchantadd.php on line 8
+[15-Jun-2015 12:22:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wavermmi/public_html/app/getdeals.php on line 39
+[15-Jun-2015 12:23:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wavermmi/public_html/app/getdeals.php on line 39
+[15-Jun-2015 12:23:43 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wavermmi/public_html/app/getdeals.php on line 39
+[15-Jun-2015 16:09:21 Etc/GMT] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/wavermmi/public_html/app/getdeals.php on line 36
+[16-Jun-2015 10:45:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/wavermmi/public_html/app/updateupvote.php on line 37
+[16-Jun-2015 10:50:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/wavermmi/public_html/app/updateupvote.php on line 37
+[16-Jun-2015 10:53:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/wavermmi/public_html/app/updateupvote.php on line 42
+[16-Jun-2015 10:55:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '$element' (T_VARIABLE) in /home/wavermmi/public_html/app/updateupvote.php on line 42
+[16-Jun-2015 10:56:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '$ele' (T_VARIABLE) in /home/wavermmi/public_html/app/updateupvote.php on line 42
+[18-Jun-2015 07:36:48 Etc/GMT] PHP Warning:  file_get_contents(GCMRegId.txt): failed to open stream: No such file or directory in /home/wavermmi/public_html/app/registertoken.php on line 37
+[18-Jun-2015 13:59:09 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/wavermmi/public_html/app/registertoken.php on line 53
+[18-Jun-2015 14:05:45 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/wavermmi/public_html/app/registertoken.php on line 55
+[22-Jun-2015 12:02:43 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/wavermmi/public_html/app/checkactivation.php on line 10
+[22-Jun-2015 12:17:49 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/wavermmi/public_html/app/checkactivation.php on line 10
+[22-Jun-2015 12:25:27 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/wavermmi/public_html/app/checkactivation.php on line 10
+[22-Jun-2015 12:27:13 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/wavermmi/public_html/app/checkactivation.php on line 10
+[22-Jun-2015 12:41:48 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/wavermmi/public_html/app/checkactivation.php on line 10
+[22-Jun-2015 12:41:56 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/wavermmi/public_html/app/checkactivation.php on line 10
+[22-Jun-2015 17:25:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/wavermmi/public_html/app/addactivation.php on line 31
+[23-Jun-2015 06:15:54 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/wavermmi/public_html/app/checkactivation.php on line 18
+[26-Jun-2015 14:13:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/wavermmi/public_html/app/getmydeals.php on line 36
+[26-Jun-2015 14:43:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/wavermmi/public_html/app/getmydeals.php on line 36
+[26-Jun-2015 15:11:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/wavermmi/public_html/app/getmydeals.php on line 39
